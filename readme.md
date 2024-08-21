@@ -1,4 +1,4 @@
-<img src="https://wallhaven.cc/w/r7o7pq" height = "400" width = "1280" >
+<img src="https://w.wallhaven.cc/full/r7/wallhaven-r7o7pq.jpg" height = "400" width = "1280" >
   <h1 align="center">Hi 👋, I'm Vansh Nagpal</h1>
 <h3 align="center">A passionate Full Stack Dev from India </h3>
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Developer.gif">
